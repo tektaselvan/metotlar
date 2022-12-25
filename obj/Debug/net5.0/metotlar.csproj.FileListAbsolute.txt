@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\refint\metotlar.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\metotlar\obj\Debug\net5.0\ref\metotlar.dll
